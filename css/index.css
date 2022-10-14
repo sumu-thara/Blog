@@ -1,0 +1,17 @@
+body{
+background-color:#090033;
+}
+#jumbo-header{
+    text-align: center;
+    font-size: 44px;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;;
+}
+.imagegal{
+    position: relative;
+    
+
+}
+.imagegal:hover {
+    transform: scaleX(-1);
+  }
